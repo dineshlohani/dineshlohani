@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next js, Java etc**
 
-- 📫 How to reach me **dineshlohani333@gmail.com**
+- 📫 How to reach me: **dineshlohani333@gmail.com**
 
-- ⚡ Fun fact **I am funny😋**
+- ⚡ Fun fact: **I am funny😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
