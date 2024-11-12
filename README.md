@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next js, Java etc**
+- 🌱 I’m currently learning **Next js, Laravel, Python etc**
 
 - 📫 How to reach me: **dineshlohani333@gmail.com**
 
